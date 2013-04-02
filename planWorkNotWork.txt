@@ -1,0 +1,12 @@
+To do list:
+
+Work:
+
+- Measurements of the MKI SIMI-tank
+  - Contact Fritz to determine of possible to modify simi-tank setup and how he did measurements in the past with stand along tube
+  - Breakdown studies - ask Vasco if he can send plots to me also
+- Measurements of the MKI 
+  - Longitudinal of each tank that comes out
+
+
+Not Work
