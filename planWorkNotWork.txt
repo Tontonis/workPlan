@@ -5,8 +5,11 @@ Work:
 - Measurements of the MKI SIMI-tank
   - Contact Fritz to determine of possible to modify simi-tank setup and how he did measurements in the past with stand along tube
   - Breakdown studies - ask Vasco if he can send plots to me also
-- Measurements of the MKI 
-  - Longitudinal of each tank that comes out
+- Measurements of the MKI from LHC
+  - Longitudinal of each tank that comes out - Yves emailled to organise
+- Measurements of MKDV - Coming out of SPS soon 02/04/13
+  - Longitudinal measurements useful. Transverse also if possible
 
 
 Not Work
+- Nathan speakers and sound system - Go see evening of 03/04/13
